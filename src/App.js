@@ -160,7 +160,7 @@ function checkCaroGameState(row, col, value) {
       Swal.fire({
         title: "Móa!",
         text: "Dơơơơ...",
-        imageUrl: "/images/thua.png",
+        imageUrl: "images/thua.png",
         imageWidth: 400,
         imageAlt: "Móa! Dơơơơ...",
         animation: true,
@@ -177,7 +177,7 @@ function checkCaroGameState(row, col, value) {
       Swal.fire({
         title: "Thua chưa!",
         text: "AI đấy...",
-        imageUrl: "/images/thang.gif",
+        imageUrl: "images/thang.gif",
         imageWidth: 400,
         imageAlt: "Thua chưa! AI đấy...",
         animation: true,
@@ -195,7 +195,7 @@ function checkCaroGameState(row, col, value) {
       Swal.fire({
         title: "Hòa!",
         text: "Hòa cái beep...",
-        imageUrl: "/images/hoa.png",
+        imageUrl: "images/hoa.png",
         imageWidth: 400,
         imageAlt: "Thua chưa! AI đấy...",
         animation: true,
