@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "4387decd36e224a5eaaf769dd04b4b07",
+    "revision": "f49bd4d3e3bfce6cdda7bf8de7e15779",
     "url": "/minimax-trolly-caro/index.html"
   },
   {
@@ -8,8 +8,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/minimax-trolly-caro/static/js/2.4298fcdc.chunk.js"
   },
   {
-    "revision": "26b0e801226d894475cf",
-    "url": "/minimax-trolly-caro/static/js/main.3bf035c9.chunk.js"
+    "revision": "31a45f314b822da42d53",
+    "url": "/minimax-trolly-caro/static/js/main.9ec72d4e.chunk.js"
   },
   {
     "revision": "5f8062d72d067ff838c3",

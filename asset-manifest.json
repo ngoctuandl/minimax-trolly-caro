@@ -1,13 +1,13 @@
 {
   "files": {
-    "main.js": "/minimax-trolly-caro/static/js/main.3bf035c9.chunk.js",
-    "main.js.map": "/minimax-trolly-caro/static/js/main.3bf035c9.chunk.js.map",
+    "main.js": "/minimax-trolly-caro/static/js/main.9ec72d4e.chunk.js",
+    "main.js.map": "/minimax-trolly-caro/static/js/main.9ec72d4e.chunk.js.map",
     "runtime~main.js": "/minimax-trolly-caro/static/js/runtime~main.bac64b59.js",
     "runtime~main.js.map": "/minimax-trolly-caro/static/js/runtime~main.bac64b59.js.map",
     "static/js/2.4298fcdc.chunk.js": "/minimax-trolly-caro/static/js/2.4298fcdc.chunk.js",
     "static/js/2.4298fcdc.chunk.js.map": "/minimax-trolly-caro/static/js/2.4298fcdc.chunk.js.map",
     "index.html": "/minimax-trolly-caro/index.html",
-    "precache-manifest.550d9689a0abeaa693860c266f3359a9.js": "/minimax-trolly-caro/precache-manifest.550d9689a0abeaa693860c266f3359a9.js",
+    "precache-manifest.bfb26e20d5830150114a25fa1b77103e.js": "/minimax-trolly-caro/precache-manifest.bfb26e20d5830150114a25fa1b77103e.js",
     "service-worker.js": "/minimax-trolly-caro/service-worker.js"
   }
 }

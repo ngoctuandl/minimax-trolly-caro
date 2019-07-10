@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/4.3.1/workbox-sw.js");
 
 importScripts(
-  "/minimax-trolly-caro/precache-manifest.550d9689a0abeaa693860c266f3359a9.js"
+  "/minimax-trolly-caro/precache-manifest.bfb26e20d5830150114a25fa1b77103e.js"
 );
 
 self.addEventListener('message', (event) => {
